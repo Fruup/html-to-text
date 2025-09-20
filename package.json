@@ -5,6 +5,12 @@
     "name": "Leon Scherer",
     "github": "https://github.com/Fruup"
   },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fruup/html-to-text"
+  },
+  "private": false,
   "module": "./src/index.ts",
   "type": "module",
   "exports": {
